@@ -1,2 +1,2 @@
-# Project42-AirTrain-GX
-Software Application for control of AirTrain GX Project Proposal with OverrideX. Associated with SDSU.
+# Project38-Robotic-Palm-Trimmer-Pandabotics
+Software Application for control of Robotic Palm Trimmer with Max Engineering. Associated with SDSU.
