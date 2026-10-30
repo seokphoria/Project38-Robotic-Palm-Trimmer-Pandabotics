@@ -26,6 +26,7 @@ endif()
 ament_package()
 
 install(
-  DIRECTORY urdf launch
+  DIRECTORY urdf launch config
   DESTINATION share/${PROJECT_NAME}
+
 )
